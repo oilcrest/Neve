@@ -39,6 +39,8 @@
 
     ./none-ls/none-ls.nix
 
+    ./pluginmanagers/lazy.nix
+
     ./snippets/luasnip.nix
 
     ./statusline/lualine.nix
@@ -54,7 +56,7 @@
     ./ui/nui.nix
 
     ./utils/better-escape.nix
-    # ./utils/neocord.nix
+    ./utils/neocord.nix
     ./utils/flash.nix
     ./utils/hardtime.nix
     ./utils/harpoon.nix
